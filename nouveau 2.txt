@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0024)https://github.com/Gamatup/testjspquoi.git/ -->
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
